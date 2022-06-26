@@ -3,5 +3,6 @@ public class main {
         codigo a = new codigo();
         a.kaku();
 
+
     }
 }
